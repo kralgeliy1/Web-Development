@@ -1,0 +1,21 @@
+p{
+  color: #252a34
+}
+body{
+  background-color: #EAEAEA;
+}
+h1{
+  color: #252a34;
+  word-wrap: normal;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 20px;
+  border-color: #ff2e63;
+  width: 30%;
+}
+table{
+  background-color: #08d9d6;
+}
